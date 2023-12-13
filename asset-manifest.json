@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/pruebas/static/js/main.ec08ec36.js",
-    "index.html": "/pruebas/index.html",
-    "main.ec08ec36.js.map": "/pruebas/static/js/main.ec08ec36.js.map"
+    "main.js": "/react-todos/static/js/main.ec08ec36.js",
+    "index.html": "/react-todos/index.html",
+    "main.ec08ec36.js.map": "/react-todos/static/js/main.ec08ec36.js.map"
   },
   "entrypoints": [
     "static/js/main.ec08ec36.js"
